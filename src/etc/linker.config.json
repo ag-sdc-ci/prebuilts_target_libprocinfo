@@ -1,0 +1,20 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libprocinfo.a-x86_64-v2.so",
+		    "libdummy_binary_libprocinfo.a.so",
+		    "libdummy_ext_libprocinfo-x86_64-v2.so",
+		    "libdummy_ext_libprocinfo.so",
+		    "libdummy_headers_ext_libprocinfo-x86_64-v2.so",
+		    "libdummy_headers_ext_libprocinfo.so",
+		    "libprocinfo-x86_64-v2.so",
+		    "libprocinfo.so"
+	],
+	"requireLibs": [	
+		    "libbase.so",
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
